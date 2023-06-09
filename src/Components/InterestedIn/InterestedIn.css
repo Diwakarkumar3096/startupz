@@ -1,0 +1,15 @@
+.first_row{
+    display: flex;
+    margin: 5px;
+}
+.interested_container{
+    display:flex;
+    flex-direction: column;
+}
+.second_row{
+    display: flex;
+    margin: 5px;
+}
+.interested_cart{
+    margin: 10px;
+}

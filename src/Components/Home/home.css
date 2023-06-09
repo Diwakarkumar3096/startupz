@@ -1,0 +1,27 @@
+.home{
+    display: flex;
+    margin:10vh auto;
+    padding: 20px;
+
+}
+.home_container_box{
+    padding:10px 30px;
+    height: 60vh;
+    width: 100%;
+    margin: 10px;
+    
+
+}
+#heading{
+    font-size: 48px;
+    font-weight: 700;
+    color: hsl(43, 91%, 50%);
+}
+#subheading{
+    font-size: 50px;
+    
+}
+p{
+    font-size: 18px;
+    font-weight: 300;
+}

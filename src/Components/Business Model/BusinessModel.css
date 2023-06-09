@@ -1,0 +1,21 @@
+.businessmodel_box{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    
+}
+.upperrow,.Lowerrow{
+    margin: 10px 40px;
+    display: flex;
+
+}
+.divcart{
+    margin: 5px;
+    padding: 5px;
+    height: 10vh;
+    width:20%;
+    border: 1px solid black;
+}
+.divcart:hover{
+    background-color:hsl(43, 91%, 50%);
+}

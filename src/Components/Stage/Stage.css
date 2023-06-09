@@ -1,0 +1,9 @@
+.stage_container{
+    padding:10px;
+}
+.stage_container_box{
+    height: 20vh;
+    width: 100%;
+    display: flex;
+    border: 1px solid #ac0c0c;
+}
